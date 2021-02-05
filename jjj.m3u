@@ -1,0 +1,15 @@
+#EXTM3U
+
+#EXTINF:0,Jamuna
+http://cdnbdlan.thunderbd.com/13/index.m3u8?token=fc86878a107d5dfae34eef9e86079ce227b5e397-5f2c8bc2955fb36ab8fe08aece3b05d0-1612549560-1612538760&remote=103.204.208.22
+
+#EXTINF:0,Sony
+http://cdnbdlan.thunderbd.com/38/index.m3u8?token=a722705c3a502735276060662f3aa8f8d803de46-d4efda5a4ea1f954dbc16fd4edc7d355-1612549634-1612538834&remote=103.204.208.22
+
+#EXTINF:0,Star
+http://cdnbdlan.thunderbd.com/67/index.m3u8?token=39c8b07ae2e7f19381be6a927b9c4efe5ea7c935-fd5a675c7a5eeffd357991070aed14d9-1612549665-1612538865&remote=103.204.208.22
+
+#EXTINF:0,Sony ten
+http://cdnbdlan.thunderbd.com/21/index.m3u8?token=a248a2acf09d2033842e6fbc17bd3b70e9fe1dce-7b396155d081050c61a60f8c0c955ca1-1612549714-1612538914&remote=103.204.208.22
+
+
